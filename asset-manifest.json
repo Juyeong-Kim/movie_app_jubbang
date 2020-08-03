@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/movie_app_jubbang/static/css/main.e083b577.chunk.css",
+    "main.js": "/movie_app_jubbang/static/js/main.f043c25c.chunk.js",
+    "main.js.map": "/movie_app_jubbang/static/js/main.f043c25c.chunk.js.map",
+    "runtime-main.js": "/movie_app_jubbang/static/js/runtime-main.af393733.js",
+    "runtime-main.js.map": "/movie_app_jubbang/static/js/runtime-main.af393733.js.map",
+    "static/js/2.f99f4147.chunk.js": "/movie_app_jubbang/static/js/2.f99f4147.chunk.js",
+    "static/js/2.f99f4147.chunk.js.map": "/movie_app_jubbang/static/js/2.f99f4147.chunk.js.map",
+    "index.html": "/movie_app_jubbang/index.html",
+    "precache-manifest.aa2816a023766e4f8bee864db74c944f.js": "/movie_app_jubbang/precache-manifest.aa2816a023766e4f8bee864db74c944f.js",
+    "service-worker.js": "/movie_app_jubbang/service-worker.js",
+    "static/css/main.e083b577.chunk.css.map": "/movie_app_jubbang/static/css/main.e083b577.chunk.css.map",
+    "static/js/2.f99f4147.chunk.js.LICENSE.txt": "/movie_app_jubbang/static/js/2.f99f4147.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af393733.js",
+    "static/js/2.f99f4147.chunk.js",
+    "static/css/main.e083b577.chunk.css",
+    "static/js/main.f043c25c.chunk.js"
+  ]
+}
